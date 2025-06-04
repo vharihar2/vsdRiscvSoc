@@ -5,7 +5,7 @@ Basic Details:
 
 **Name:** Venkatnarayan Hariharan
 
-**Email ID:** vharihar@gmail.com
+**Email ID:** vharihar@gmail.com (or venkatnarayan.h@snu.edu.in)
 
 **GitHub Profile:** vharihar2
 
