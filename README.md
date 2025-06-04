@@ -3,7 +3,9 @@ The program is based on the RISC-V architecture and uses open-source tools to te
 
 Basic Details
 **Name:** Venkatnarayan Hariharan
+
 **Email ID:** vharihar@gmail.com
+
 **GitHub Profile:** vharihar2
 
 Task 1: Install the RISC-V toolchain
