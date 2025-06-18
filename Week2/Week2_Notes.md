@@ -11,7 +11,7 @@ Basic Details:
 
 Week 2: @@
 
-The two major sub-modules instantiated inside caravel:
-chip_io
-caravel_core
+1. The two major sub-modules instantiated inside caravel:
+    chip_io
+    caravel_core
 
