@@ -1,0 +1,17 @@
+VSD RISC-V RTL to GDS project 2025
+The program is based on the RISC-V architecture and uses open-source tools to teach people about VLSI chip design and RISC-V. The instructor for this internship is Kunal Ghosh.
+
+Basic Details:
+
+**Name:** Venkatnarayan Hariharan
+
+**Email ID:** vharihar@gmail.com (or venkatnarayan.h@snu.edu.in)
+
+**GitHub Profile:** vharihar2
+
+Week 2: @@
+
+The two major sub-modules instantiated inside caravel:
+chip_io
+caravel_core
+
